@@ -10,7 +10,7 @@
 .testimonials-slider .owl-controls > .owl-pagination > .owl-page.active > span,
 .testimonials-slider .owl-controls > .owl-pagination > .owl-page:hover > span,
 .close-btn > span:before{
-	background:#C03221;
+	background:#F25F5C;
 }
 .sidebar-list > li > a:hover,
 .post .read-more:hover,
@@ -18,14 +18,24 @@
 .process > .number,
 .skill > h4,
 .front-person-links > ul > li > a:hover{
-	color:#C03221;
+	color:#F25F5C;
 }
 .testimonials-slider .owl-controls > .owl-pagination > .owl-page > span,
 .form-control:focus,
 .process.last > .number > span:before,
 .process > .number{
-	border-color:#C03221;
+	border-color:#F25F5C;
 }
 .process > .number > span:before{
-	border-left-color:#C03221;
+	border-left-color:#F25F5C;
+}
+
+.front-person-links > ul > li > a ,
+.front-person-titles > span ,
+.front-heading > h2{
+    color:#247BA0;
+}
+
+.front-section {
+    background-color:#FFE066;
 }
