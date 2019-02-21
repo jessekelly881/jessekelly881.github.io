@@ -33,9 +33,13 @@
 .front-person-links > ul > li > a ,
 .front-person-titles > span ,
 .front-heading > h2{
-    color:#69306D;
+    color:white;
 }
 
 .front-section {
-    background-color:#D3BCC0;
+    background-color:#161616;
+}
+
+.t{
+    padding: 20px;
 }
